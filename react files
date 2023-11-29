@@ -1,0 +1,20 @@
+json-server --watch db.json -p 3001 -d 1000
+
+npm install bootstrap@4.0.0
+npm install reactstrap@5.0.0 --force
+npm install react-popper@0.9.2 --force
+npm install font-awesome@4.7.0
+npm install bootstrap-social@5.1.1
+npm install react-router-dom@4.2.2
+npm install redux@3.7.2
+npm install react-redux@5.0.7 --force
+npm install react-redux-form@1.16.8 --force
+npm install redux-thunk@2.2.0
+npm install redux-logger@3.0.6
+npm install cross-fetch@2.1.0
+npm install react-transition-group@2.3.0
+npm install react-animation-components@3.0.0 --force
+npm install prop-types@15.6.0 --force
+npm i react-confirm-box
+
+Shabbir@321
